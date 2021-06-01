@@ -8,3 +8,4 @@ The training data is a subset of the Webis-argument-framing corpus. The corpus c
 The evaluation of the submitted systems will be based on F1 score measure.
 
 ## Submission
+Submission of the systems will be on ww.tira.io
